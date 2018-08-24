@@ -1,5 +1,6 @@
 {
   "projects": {
-    "default": "gourmetsearch-dev"
+    "default": "gourmetsearch-dev",
+    "production": "gourmetsearch-pro"
   }
 }
